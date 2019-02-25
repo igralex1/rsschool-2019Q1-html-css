@@ -1,2 +1,2 @@
 Ihar Usmanau
-HTML CSS Basics: https://www.codecademy.com/users/igralex1/achievements
+HTML CSS Basics: https://htmlacademy.ru/profile/id330913/achievements
