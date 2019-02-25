@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Ihar Usmanau
+HTML CSS Basics: https://www.codecademy.com/users/igralex1/achievements
